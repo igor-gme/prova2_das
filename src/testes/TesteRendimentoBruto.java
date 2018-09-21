@@ -8,7 +8,7 @@ public class TesteRendimentoBruto {
 
 	@Test
 	public void test() {
-		fail(" yet implemented");
+		fail(" yet implementesd");
 	}
 
 }
